@@ -21,7 +21,7 @@ from datetime import datetime
 RULES = [
     # --- Tier 1: MUST redact (data leaks) ---
     ("machine_user_path", re.compile(r"/Users/joy(/|\b)"), "/Users/<USER>/", 1),
-    ("machine_user_tilde", re.compile(r"~/Documents/enjoy-skills"), "~/<REPO_ROOT>", 1),
+    ("machine_user_tilde", re.compile(r"~/Documents/skills"), "~/<REPO_ROOT>", 1),
     ("anthropic_api_key", re.compile(r"\bsk-ant-[A-Za-z0-9_-]{20,}"), "<YOUR_API_KEY>", 1),
     ("minimax_api_key", re.compile(r"\bsk-cp-[A-Za-z0-9_-]{20,}"), "<YOUR_API_KEY>", 1),
     ("github_pat", re.compile(r"\bghp_[A-Za-z0-9]{30,}\b"), "<YOUR_GITHUB_TOKEN>", 1),
