@@ -2,8 +2,6 @@
 
 Curated collection of Agent / Claude skills I built and use daily. Every skill here was extracted from a real workflow I kept coming back to.
 
-**Privacy-first**: all personal paths, API keys, tokens, and identifying info are stripped before publication. If you find anything sensitive, open an issue.
-
 ## Skills
 
 | Skill | What it does | When to use |
@@ -36,7 +34,7 @@ Issues and PRs welcome. If you have a skill you've built and want to add it here
 
 1. Open an issue first — describe the problem the skill solves and why it should be a skill (not a prompt).
 2. Keep the structure: `skills/<name>/SKILL.md` + optional `references/`, `scripts/`, `assets/`.
-3. Privacy check: run a grep for `/Users/<your-username>`, API keys, emails, and tokens before submitting.
+3. Make sure your skill works on a clean machine with no personal paths or private credentials.
 
 ## License
 
