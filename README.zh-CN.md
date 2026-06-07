@@ -1,8 +1,5 @@
 # enjoy-skills
 
-[![Skills](https://img.shields.io/badge/skills-1-brightgreen)](./skills)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-
 [English](README.md)
 
 我在 AI 时代自己在用、且价值经过自己判断的技能合集。精挑细选，而非简单堆砌。

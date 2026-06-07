@@ -1,8 +1,5 @@
 # enjoy-skills
 
-[![Skills](https://img.shields.io/badge/skills-1-brightgreen)](./skills)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-
 [简体中文](README.zh-CN.md)
 
 A curated set of skills I personally use in the AI era. Most are mine; some are adapted from others. All are battle-tested in my daily workflow.
