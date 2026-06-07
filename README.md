@@ -1,4 +1,4 @@
-# enjoy-skills
+# Skills
 
 [简体中文](README.zh-CN.md)
 
@@ -43,8 +43,8 @@ More skills are in the pipeline. They ship here only after they've earned a plac
 
 ```bash
 # Clone the whole repo
-git clone https://github.com/Joy917/enjoy-skills.git
-cd enjoy-skills
+git clone https://github.com/Joy917/skills.git
+cd skills
 
 # Copy the skill you want
 cp -r skills/product-judgment ~/.hermes/skills/

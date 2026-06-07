@@ -1,4 +1,4 @@
-# enjoy-skills
+# Skills
 
 [English](README.md)
 
@@ -43,8 +43,8 @@
 
 ```bash
 # 克隆整个仓库
-git clone https://github.com/Joy917/enjoy-skills.git
-cd enjoy-skills
+git clone https://github.com/Joy917/skills.git
+cd skills
 
 # 复制你想要的 skill
 cp -r skills/product-judgment ~/.hermes/skills/
